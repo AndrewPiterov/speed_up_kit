@@ -1,7 +1,5 @@
 library speed_up_kit;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export './src/dev_logs/dev_logs.dart';
+export './src/models/models.dart';
+export './src/services/services.dart';
