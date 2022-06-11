@@ -1,6 +1,6 @@
 name: speed_up_kit
 description: Speed up your productivity.
-version: 0.0.1+1
+version: 0.0.2
 homepage:
 
 environment:
@@ -10,17 +10,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  speed_up: ^0.6.7  
-  speed_up_flutter: ^0.6.7+1
-  speed_up_get: ^0.0.1
+  speed_up: ^0.8.0+1
+  speed_up_flutter: ^0.8.0
+  speed_up_get: ^0.0.2
   equatable: ^2.0.3
-  get: ^4.6.1
-  dio: ^4.0.4
+  get: ^4.6.5
+  dio: ^4.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.4
-  shouldly: ^0.2.4
+  shouldly: ^0.5.0+1
   
 flutter:
